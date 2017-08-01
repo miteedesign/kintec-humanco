@@ -1,0 +1,2 @@
+# kintec-humanco
+Humanco Website
